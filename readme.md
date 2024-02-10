@@ -11,6 +11,6 @@ We are currently organizing the project and awaiting approval. Coming soon! Happ
 
 We propose an efficient data collection method *Query of CC* based on large language models (see the figure below). This method bootstraps seed information through a large language model and retrieves related data from public corpora. It not only collects knowledge-related data for specific domains but unearths the data with potential reasoning procedures. Through the application of this method, we have curated a high-quality dataset called **Knowledge Pile**, encompassing four major domains, including stem and humanities sciences, among others. 
 
-![Main stage of Query of CC](./images/main_stage.pdf)
+![Main stage of Query of CC](./images/main_stage.png)
 
 
