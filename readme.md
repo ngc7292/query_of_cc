@@ -6,6 +6,9 @@
 
 This project is dataset and model checkpoints for the paper "Query of CC: Unearthing Large Scale Domain-Specific Knowledge from Public Corpora".
 
+## Update
+
+[2024.2.21] We have released partial data of Knowledge Pile at https://huggingface.co/datasets/Query-of-CC/Knowledge_Pile, and full data is coming soon.
 
 ## Introduction
 
