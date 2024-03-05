@@ -8,7 +8,9 @@ This project is dataset and model checkpoints for the paper "Query of CC: Uneart
 
 ## Update
 
-[2024.2.21] We have released partial data of Knowledge Pile at https://huggingface.co/datasets/Query-of-CC/Knowledge_Pile, and full data is coming soon.
+[2024.3.5] We have released the complete Knowledge Pile dataset at https://huggingface.co/datasets/Query-of-CC/knowledge_pile_full/. We also fixed some statistical errors. We have a total of 735GB disk size and 188B billion tokens(using Llama2 tokenizer) in Knowledge Pile.
+[2024.2.21] We have released partial data of Knowledge Pile at https://huggingface.co/datasets/Query-of-CC/Knowledge_Pile.
+[2024.1.26] We have released our paper at https://arxiv.org/abs/2401.14624.
 
 ## Introduction
 
@@ -23,7 +25,7 @@ Just like the figure below, we initially collected seed information in some spec
 
 ## **Knowledge Pile** Statistics
 
-Based on *Query of CC* , we have formed a high-quality knowledge dataset **Knowledge Pile**, which maintains about 900GB disk and 300B tokens~(using Llama2 tokenizer). As shown in Figure below, comparing with other datasets in academic and mathematical reasoning domains, we have acquired a large-scale, high-quality knowledge dataset at a lower cost, without the need for manual intervention. Through automated query bootstrapping, we efficiently capture the information about the seed query. **Knowledge Pile**~not only covers mathematical reasoning data but also encompasses rich knowledge-oriented corpora spanning various fields such as biology, physics, etc., enhancing its comprehensive research and application potential.
+Based on *Query of CC* , we have formed a high-quality knowledge dataset **Knowledge Pile**, which maintains about 735GB disk and 188B tokens~(using Llama2 tokenizer). As shown in Figure below, comparing with other datasets in academic and mathematical reasoning domains, we have acquired a large-scale, high-quality knowledge dataset at a lower cost, without the need for manual intervention. Through automated query bootstrapping, we efficiently capture the information about the seed query. **Knowledge Pile**~not only covers mathematical reasoning data but also encompasses rich knowledge-oriented corpora spanning various fields such as biology, physics, etc., enhancing its comprehensive research and application potential.
 
 
 <img src="./images/query_of_cc_timestamp.png" width="300px" style="center"/> 

@@ -36,7 +36,7 @@ All instances of the dataset are text-only documents, which extrated from web pa
 
 ### How many instances are there in total (of each type, if appropriate)?
 
-400GB disk size
+735GB disk size, 188B tokens (using Llama2 tokenizer).
 
 ### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
 
@@ -52,7 +52,7 @@ No
 
 ### Is any information missing from individual instances?
 
-No
+Perhaps some URL fields will be missing.
 
 ### Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)?
 
