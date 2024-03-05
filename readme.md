@@ -30,7 +30,7 @@ Just like the figure below, we initially collected seed information in some spec
 Based on *Query of CC* , we have formed a high-quality knowledge dataset **Knowledge Pile**, which maintains about 735GB disk and 188B tokens~(using Llama2 tokenizer). As shown in Figure below, comparing with other datasets in academic and mathematical reasoning domains, we have acquired a large-scale, high-quality knowledge dataset at a lower cost, without the need for manual intervention. Through automated query bootstrapping, we efficiently capture the information about the seed query. **Knowledge Pile**~not only covers mathematical reasoning data but also encompasses rich knowledge-oriented corpora spanning various fields such as biology, physics, etc., enhancing its comprehensive research and application potential.
 
 
-<img src="./images/query_of_cc_timestamp.png" width="300px" style="center"/> 
+<img src="./images/query_of_cc_timestamp_prop.png" width="300px" style="center"/> 
 
 
 This table presents the top 10 web domains with the highest proportion of **Knowledge Pile**, primarily including academic websites, high-quality forums, and some knowledge domain sites. Table~\ref{fig:queryofcc_timestamp} provides a breakdown of the data sources' timestamps in **Knowledge Pile**, with statistics conducted on an annual basis. It is evident that a significant portion of **Knowledge Pile**~is sourced from recent years, with a decreasing proportion for earlier timestamps. This trend can be attributed to the exponential growth of internet data and the inherent timeliness introduced by the **Knowledge Pile**.
