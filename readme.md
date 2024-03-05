@@ -9,7 +9,9 @@ This project is dataset and model checkpoints for the paper "Query of CC: Uneart
 ## Update
 
 [2024.3.5] We have released the complete Knowledge Pile dataset at https://huggingface.co/datasets/Query-of-CC/knowledge_pile_full/. We also fixed some statistical errors. We have a total of 735GB disk size and 188B billion tokens(using Llama2 tokenizer) in Knowledge Pile.
+
 [2024.2.21] We have released partial data of Knowledge Pile at https://huggingface.co/datasets/Query-of-CC/Knowledge_Pile.
+
 [2024.1.26] We have released our paper at https://arxiv.org/abs/2401.14624.
 
 ## Introduction
