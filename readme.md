@@ -37,16 +37,17 @@ This table presents the top 10 web domains with the highest proportion of **Know
 
 | **Web Domain**       | **Count** |
 |----------------------------|----------------|
-| www.semanticscholar.org    |  134252         |
-| www.ipl.org                | 83076          |
-| slideplayer.com            | 80583          |
-| www.ncbi.nlm.nih.gov       | 60623          |
-| www.bartleby.com           | 54546          |
-| link.springer.com          | 50807          |
-| pubmed.ncbi.nlm.nih.gov    | 50409          |
-| quizlet.com                | 43359          |
-| www.studymode.com          | 38685          |
-| www.innovations-report.com | 37845          |
+|en.wikipedia.org | 398833 |
+|www.semanticscholar.org | 141268 |
+|slideplayer.com | 108177 |
+|www.ncbi.nlm.nih.gov | 97009 |
+|link.springer.com | 85357 |
+|www.ipl.org | 84084 |
+|pubmed.ncbi.nlm.nih.gov | 68934 |
+|www.reference.com | 61658 |
+|www.bartleby.com | 60097 |
+|quizlet.com | 56752 |
+
 
 ## Cite
 
